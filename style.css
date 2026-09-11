@@ -1,0 +1,18 @@
+h1{
+    color:blue;
+    text-align: right;  
+    
+  }
+  h2{
+      color: blue;
+      background-color: chartreuse;
+      font-style: italic;
+  }
+  h6{
+      color: darkolivegreen;
+      background-color: darkgoldenrod;
+  }
+  p{
+      color: greenyellow;
+      background-color: beige;
+  }
