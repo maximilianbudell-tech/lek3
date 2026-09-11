@@ -1,18 +1,24 @@
-h1{
-    color:blue;
-    text-align: right;  
-    
-  }
-  h2{
-      color: blue;
-      background-color: chartreuse;
-      font-style: italic;
-  }
-  h6{
-      color: darkolivegreen;
-      background-color: darkgoldenrod;
-  }
-  p{
-      color: greenyellow;
-      background-color: beige;
-  }
+h1 {
+color: #0446b0;
+background-color: #eff7a1;
+text-align: right;
+}
+body{
+background-image: url(./img/moorish-pattern_644416-582.jpg);
+display: flex;
+flex-direction: column;
+}
+ul{
+    background-color: #191970;
+}
+a{
+    color: #ffd700;
+}
+a:hover{
+    color: purple;
+    background-color: aqua;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
